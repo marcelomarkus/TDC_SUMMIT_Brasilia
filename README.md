@@ -85,3 +85,4 @@ Para sincronizar as dependências do projeto com venv, execute:
 | `audio` | `file` | **Required**. Audio wave |
 | `question` | `string` | **Required**. Question |
 
+Release
